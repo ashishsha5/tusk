@@ -12,3 +12,11 @@ x/y
 print(x+y)
 print(x-y)
 print(x/y)
+
+print("\n"*20)
+for x in 'AshishKumar'
+    print("Welcome to: ",x)
+  
+for x in "AshishKumar"
+    print("Welcome to: ", x,end=" ")
+  
